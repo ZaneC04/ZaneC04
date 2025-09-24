@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi, I'm Zane 👋
+## Hi, I'm Zane 👋
+
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
