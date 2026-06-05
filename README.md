@@ -5,18 +5,27 @@
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
 - Born & raised in Brooklyn, NY
 - Artist, Designer, and Writer
-- Let's connect via email: zenithzsc@gmail.com
+- Let's connect via: 
+[Email](mailto:zenithzsc@gmail.com)
+[LinkedIn](www.linkedin.com/in/samzcorrea)
+
+Check out my portfolio [here!](https://zanec04.github.io/)
 
 ## Tech Stack:
 
 ### Languages
 - JavaScript
+- SQL
+- Python
 - HTML
 - CSS
 
 ### Frameworks & Libraries
 - Node.js
+- Express.js
 
 ### Tools
 - Git
 - GitHub
+- TablePlus
+- PostgreSQL
