@@ -10,7 +10,7 @@
 [LinkedIn](www.linkedin.com/in/samzcorrea)
 
 Check out my portfolio [here!](https://zanec04.github.io/)
-Check out my latest project, Score.Points, [here!](https://full-stack-project-remix-zanec04.onrender.com/)
+Check out my latest project, Score.Points, [here!](https://full-stack-project-remix-zanec04.onrender.com/) And check out its repository [here!](https://github.com/The-Marcy-Lab-School-Assignments/full-stack-project-remix-ZaneC04/tree/draft)
 
 ## Tech Stack:
 
